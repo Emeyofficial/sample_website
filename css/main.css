@@ -9,3 +9,33 @@
   .nav-text {
     text-decoration: none;
   }
+  .founders {sample_website/index.html#founders
+  }
+
+  /* CSS styling for moby_dick.html */
+  .image-link {
+    text-decoration: none;
+  }
+
+  .book-cover {
+    text-align: center; margin: 0 0 80px;
+  }
+  .sperm-whales {
+    margin: 0 auto; display: block;
+  }
+  .moby-dick { width: 500px;margin:20px;padding: 30px; background-color: #fafafa;text-align: justify;
+}
+.moby-png {
+    float: left; margin: 20px 40px 20px 10px;
+}
+.blockqoute {
+    font-style:italic; font-size: 20px
+}
+.call-span
+{
+    font-style:normal; font-size: 24px; font-weight:bold; color:#ff0000
+}
+/* CSS styling for tags.html */
+.tags-image {
+   margin: 10px 40px 20px 20px;
+}
